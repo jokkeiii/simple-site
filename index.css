@@ -1,13 +1,26 @@
 h1 {
-    color: white;
-    font-size: 50px;
+    color: rgb(0, 129, 169);
+}
+h2 {
+    color: rgb(0, 129, 169);
+}
+h3 {
+    color: rgb(0, 129, 169);
 }
 p {
     color: white;
 }
+a {
+    color: blue;
+}
 body {
     background-color: #161313;
 }
-a {
-    color: blue;
+.back-light {
+    background-color: #1e1e1e;
+}
+#area {
+    width: 400px;
+    margin: 10px;
+    padding-left: 10px;
 }
