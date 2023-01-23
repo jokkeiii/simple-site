@@ -1,26 +1,53 @@
 h1 {
     color: rgb(0, 129, 169);
 }
-h2 {
-    color: rgb(0, 129, 169);
-}
-h3 {
-    color: rgb(0, 129, 169);
-}
 p {
     color: white;
 }
 a {
-    color: blue;
+    color: rgb(50, 50, 255);
 }
 body {
     background-color: #161313;
+    font-family: 'Courier New';
+    
 }
 .back-light {
     background-color: #1e1e1e;
 }
 #area {
-    width: 400px;
-    margin: 10px;
-    padding-left: 10px;
+    width:60%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left:auto;
+    margin-right:auto;
+    padding: 10px;
+    text-align: center;
+    border-radius: 15px;
+}
+#picture {
+    border-radius: 15px;
+    width: 90%;
+}
+#sub-area {
+    width:90%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left:auto;
+    margin-right:auto;
+    padding: 10px;
+    text-align: center;
+    border-radius: 15px;
+    background-color: #292929;
+}
+#nav-area {
+    width:90%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left:auto;
+    margin-right:auto;
+    padding: 5px;
+    text-align: center;
+    border-radius: 15px;
+    background-color: #292929;
 }
